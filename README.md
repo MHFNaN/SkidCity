@@ -1,12 +1,15 @@
-# Perry Phobos
+# Basically Perry Phobos Plus
 
-Account switcher is broken but who cares
+Account switcher is broken *Love this feature*
 
 # Credits
 
 - Perry, Bush (Main Devs)
 - Phobos 1.9.0 Devs
-- ZANE 
+- ZANE
+- Acid/Berry Bobus Skidders (me included)
+
+# Yuh we back to skidding
 
 # ClickGUI
 
