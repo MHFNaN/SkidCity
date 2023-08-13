@@ -234,7 +234,8 @@ extends Feature {
         RENDER("Render"),
         MOVEMENT("Movement"),
         PLAYER("Player"),
-        CLIENT("Client");
+        CLIENT("Client"),
+        GONDAL("Gondal");
 
         private final String name;
 
