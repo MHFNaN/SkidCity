@@ -26,7 +26,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.Executors;
 import me.earth.phobos.event.events.ClientEvent;
 import me.earth.phobos.features.command.Command;
-import me.earth.phobos.features.gui.esohackGui;
+import me.earth.phobos.features.gui.PhobosGui;
 import org.lwjgl.input.Keyboard;
 import net.minecraftforge.fml.common.gameevent.InputEvent;
 import com.esoterik.client.util.RenderUtil;
